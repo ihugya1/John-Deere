@@ -1,0 +1,54 @@
+.clearfix {
+  overflow: auto;
+}
+body {
+	width: 960px;
+	height: 1080px;
+	margin: 0 auto;
+	padding: 40px;
+}
+header, main, footer {
+	border: solid grey 2px;
+	padding: 20px 85px;
+	margin: 40px auto;
+}
+
+div.logo {
+	float: left;
+}
+div.contact {
+	padding: 40px;
+	float: right;
+}
+section {
+	text-align: center;
+	width: 33.3%;
+	float: right;
+	padding: 20px 0;
+}
+ul {
+	list-style-type: none;
+	padding: 10px 20px;
+}
+
+li {
+	padding: 20px;
+}
+.button {
+	margin: auto;
+	width: 50%;
+background-color: #000000; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  } 
+  
+  footer h2 {
+	  text-align: center;
+  }
