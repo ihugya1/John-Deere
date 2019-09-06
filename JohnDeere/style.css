@@ -5,10 +5,10 @@ body {
 	width: 960px;
 	height: 1080px;
 	margin: 0 auto;
-	padding: 40px;
+	padding: 20px;
 }
 header, main, footer {
-	border: solid grey 2px;
+	border: solid lightgrey 4px;
 	padding: 20px 85px;
 	margin: 40px auto;
 }
@@ -22,9 +22,9 @@ div.contact {
 }
 section {
 	text-align: center;
-	width: 33.3%;
+	width: 33%;
 	float: right;
-	padding: 20px 0;
+	padding: 15px 0;
 }
 ul {
 	list-style-type: none;
@@ -51,4 +51,7 @@ background-color: #000000;
   
   footer h2 {
 	  text-align: center;
+  }
+  h2.Servicing{
+  	font-size: 20px;
   }
